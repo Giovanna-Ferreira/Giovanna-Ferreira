@@ -3,8 +3,8 @@
 - 🌱 Aprendendo Html,Css e Javasript
 <div align="center">
   <a href="https://github.com/Giovanna-Ferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-Ferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-Ferreira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-Ferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-Ferreira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inlineblock"><br>
   <img align="center" alt="Gi-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
