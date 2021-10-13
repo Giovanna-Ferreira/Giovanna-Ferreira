@@ -1,8 +1,5 @@
 ## Olá! Sou a Giovanna Ferreira, estudante de front-end e design!
 
-- 🔭 Estudante EM (Ensino Médio), mas penso em trabalhar com front-end ou design
-- 🌱 Aprendendo Html,Css e Javasript
-
 <div align="center">
   <a href="https://github.com/Giovanna-Ferreira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-Ferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -14,7 +11,7 @@
   <img align="center" alt="Gi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Gi-Gif"  height="130" src="https://media.discordapp.net/attachments/887693256996044834/897856579192373258/tenor.gif">
+  <img align="right" alt="Gi-Gif"  height="150" src="https://media.discordapp.net/attachments/887693256996044834/897856579192373258/tenor.gif">
 </div>
   
   ##
