@@ -21,6 +21,7 @@
   ##
   
   <div>
+    
  ![Snake animation](https://github.com/Giovanna-Ferreira)
-  
+    
   </div>
