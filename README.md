@@ -21,4 +21,5 @@
     <a href="https://discord.com/channels/789888698673922078/789996849535647754" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     
   ![Snake animation](https://github.com/Giovanna-Ferreira/Giovanna-Ferreira/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
