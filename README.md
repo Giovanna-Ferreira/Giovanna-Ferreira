@@ -1,4 +1,4 @@
-## Olá! Sou a Giovanna Ferreira, estudante de front-end e design!
+## Olá! Sou a Giovanna, estudante de front-end e design!
 - 🔭 Estudante EM (Ensino Médio), mas penso em trabalhar com front-end ou design
 - 🌱 Aprendendo Html,Css e Javasript
 <div align="center">
