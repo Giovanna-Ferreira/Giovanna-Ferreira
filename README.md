@@ -1,5 +1,5 @@
 ## Olá! Sou a Giovanna, estudante de front-end e design!
-- 🔭 Estudante EM (Ensino Médio), mas penso em trabalhar com front-end ou design
+- 🔭 Estudante de Degin de interiores, penso em trabalhar com front-end, design, ou interior design, estou confusa ainda...
 - 🌱 Aprendendo Html,Css e Javasript
 <div align="center">
   <a href="https://github.com/Giovanna-Ferreira">
